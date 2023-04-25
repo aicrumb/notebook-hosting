@@ -29,7 +29,8 @@ The B, C, and D classes are derived from the tokens per model ratio from LLaMA, 
 | **[GerbilLab/GerbilBlender-C-star-77m](https://hf.co/GerbilLab/GerbilBlender-C-star-77m)** | 77m | C*-Class | 60 | 4560M | 262K-524K | coming soon |
 | **[GerbilLab/GerbilBlender-A-104m](https://hf.co/GerbilLab/GerbilBlender-A-104m)** | 104m | A-Class | 20 | 2060M | 1M (too big, would outperform a-77 if was using 524k)| 3.592 | 26.41 | 2972.4260 | 17.31 | 49.6 |
 | --- | --- | --- | --- | --- |  --- |  --- | 
-| GerbilLab/GerbilCode-6.7m | 6.7m | . | ~300 | 2852M | 131k | 3.98 | 25.4 | 124001.9108 | 0.08 | 52.72 |
+| GerbilLab/GerbilCode-6.7m | 6.7m | . | . | 2852M | 131k | 3.98 | 25.4 | 124001.9108 | 0.08 | 52.72 |
+| GerbilLab/GerbilCode-77m | 6.7m | . | . | 6560M | 262K-524K | 2.38 | 26.39 | 1405.4463 | 18.82 | 53.28 |
 <!---
 | [GerbilLab/T5Blender-A-24m](https://hf.co/GerbilLab/T5Blender-A-24m) | 24m | A-class | 20 | 460M | 131K | 5.5642 | 25.85 | 57122770.9237 | 0 | 52.25 |
 | [GerbilLab/T5Blender-B-star-24m](https://hf.co/GerbilLab/T5Blender-B-star-24m) | 24m | B*-Class | 40 | 920M | 131K-262K | 5.419 | 
