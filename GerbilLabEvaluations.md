@@ -3,7 +3,7 @@
 
 Who needs em, we all have em, they're just like us. Unusable models, compute optimally 🔥. We hope that by open-sourcing our compute-optimal trained models, that others can replicate our results and also make no use out of our unusable models. These models are not useful in the slightest, and don't benefit research. Every time you use one of these models, you can be sure that you will not get a useful result, and every time we kiss I swear I can fly. Can't you feel my heart beat fast, I want this to last, need you by my side. We introduce a cascade(a) (sorry) of classes and models:
 
-- A-Class Models: 20 x Million Params tokens in training set. (Chinchilla-Optimal)
+- A-Class Models: 20 x Million Params tokens in training set. (Cerebras-Optimal)
 - B-Class Models: 42 x Million Params tokens in training set.
 - C-Class Models: 76 x Million Params tokens in training set.
 - D-Class Models: 142 x Million Params tokens in training set.
